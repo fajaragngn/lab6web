@@ -21,3 +21,9 @@ Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap, Saya mem
 ![img2!](assets/img/2/2.png)
 
 ![img2!](assets/img/2/2-1.png)
+
+### 3. Jumbotron
+
+![img2!](assets/img/2/3.png)
+
+![img2!](assets/img/2/3-1.png)
