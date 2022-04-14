@@ -83,4 +83,4 @@ bagian akhir tambahkan footer.
 ## Tampilan full
 
 ![img2!](assets/img/2/8.png)
-![img2!](assets/img/2/8-1.png)
+![img2!](assets/img/2/8-2.png)
