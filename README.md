@@ -5,6 +5,13 @@
 
 ## Langkah langkah praktikum 6
 
-## 1. Buat folder baru dengan nama lab6_css_framework, Buat file baru dokumen html
+## Buat folder baru dengan nama lab6_css_framework, Buat file baru dokumen html
 
 ![img1!](assets/img/1/1.png)
+
+## Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap)
+
+### 1. Quick start
+Copy atau download CSS & JS Bootstrap, Saya memilih copy
+
+![img2!](assets/img/2/1.png)
