@@ -63,3 +63,10 @@ lalu tambahkan widget disamping kanan cards
 ![img2!](assets/img/2/5.png)
 
 ![img2!](assets/img/2/5-1.png)
+
+### 6. Cards 2
+Buat body konten untuk yg kedua, dan masih menggunakan card
+
+![img2!](assets/img/2/6.png)
+
+![img2!](assets/img/2/6-1.png)
