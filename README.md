@@ -35,8 +35,11 @@ Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan unt
 ### 4. Cards
 Untuk membuat pilihan konten sesuai dengan contoh, saya menggunakan cards
 
-
-
 ![img2!](assets/img/2/4.png)
+
+Penjelasan :
+`row`
+`col`
+`img-rounded-circle`
 
 ![img2!](assets/img/2/4-1.png)
