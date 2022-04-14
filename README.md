@@ -56,5 +56,8 @@ refresh browser
 ![img2!](assets/img/2/4-2.png)
 
 ### 5. List Group
+lalu tambahkan widget disamping kanan cards
 
 ![img2!](assets/img/2/5.png)
+
+![img2!](assets/img/2/5-1.png)
