@@ -39,10 +39,12 @@ Untuk membuat pilihan konten sesuai dengan contoh, saya menggunakan cards
 
 Penjelasan :
 
-`row` untuk
+`col` memberi style sebuah table berdasarkan kolom tertentu 
 
-`col`
+`img-rounded-circle` untuk membuat border pada gambar menjadi bulat
 
-`img-rounded-circle`
+`pt-3` padding top = 3
+
+`mt-3` margin top = 3
 
 ![img2!](assets/img/2/4-1.png)
