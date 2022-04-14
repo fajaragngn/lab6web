@@ -70,3 +70,10 @@ Buat body konten untuk yg kedua, dan masih menggunakan card
 ![img2!](assets/img/2/6.png)
 
 ![img2!](assets/img/2/6-1.png)
+
+### 7. Footer 
+bagian akhir tambahkan footer.
+
+![img2!](assets/img/2/7.png)
+
+![img2!](assets/img/2/7-1.png)
