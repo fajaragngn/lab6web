@@ -12,6 +12,6 @@
 ## 2. Buatlah layout web sederhana menggunakan css frameword (Twitter Bootsrtap)
 
 ### 1. Quick start
-Copy atau download CSS & JS Bootstrap, Saya memilih copy
+Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap, Saya memilih copy
 
 ![img2!](assets/img/2/1.png)
