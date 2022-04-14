@@ -33,7 +33,9 @@ Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan unt
 ![img2!](assets/img/2/3-1.png)
 
 ### 4. Cards
-Untuk membuat pilihan konten sesuai dengan contoh, saya menggunakan cards
+Untuk membuat body konten, saya menggunakan cards. 
+
+pertama saya akan membagi kolom menggunakan display flex agar dapat memuat 2 kolom yang nanti akan di isi oleh menu List Group
 
 ![img2!](assets/img/2/4.png)
 
