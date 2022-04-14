@@ -31,6 +31,7 @@ Selanjutnya buat jumbotron atau area besar pada Bootstrap, umumnya digunakan unt
 ![img2!](assets/img/2/3-1.png)
 
 ### 4. Cards
+Untuk membuat pilihan konten sesuai dengan contoh, saya menggunakan cards
 
 ![img2!](assets/img/2/3.png)
 
