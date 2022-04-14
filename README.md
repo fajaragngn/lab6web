@@ -49,9 +49,9 @@ Penjelasan :
 
 `mt-3` margin top = 3
 
-![img2!](assets/img/2/4-11.png)
-
 saya menambah style untuk mengatur ukuran dan posisi pada gambar
+
+![img2!](assets/img/2/4-11.png)
 
 refresh browser
 
