@@ -79,3 +79,8 @@ bagian akhir tambahkan footer.
 ![img2!](assets/img/2/7-1.png)
 
 ![img2!](assets/img/2/7-2.png)
+
+## Tampilan full
+
+![img2!](assets/img/2/8.png)
+![img2!](assets/img/2/8-1.png)
