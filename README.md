@@ -19,3 +19,5 @@ Disini saya memakai Bootstrap 4. Copy atau download CSS & JS Bootstrap, Saya mem
 ### 2. Navbar
 
 ![img2!](assets/img/2/2.png)
+
+![img2!](assets/img/2/2-1.png)
