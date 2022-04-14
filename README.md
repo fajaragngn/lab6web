@@ -38,8 +38,11 @@ Untuk membuat pilihan konten sesuai dengan contoh, saya menggunakan cards
 ![img2!](assets/img/2/4.png)
 
 Penjelasan :
-`row`
+
+`row` untuk
+
 `col`
+
 `img-rounded-circle`
 
 ![img2!](assets/img/2/4-1.png)
